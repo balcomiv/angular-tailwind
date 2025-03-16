@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 
 @Component({
-  selector: 'a-root',
+  selector: 'root',
   imports: [RouterOutlet],
   template: `
     <h1>Welcome to {{title}}!</h1>
