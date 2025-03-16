@@ -5,7 +5,9 @@ import { RouterOutlet } from '@angular/router';
   selector: 'root',
   imports: [RouterOutlet],
   template: `
-    <h1>Welcome to {{title}}!</h1>
+    <h1 class="mt-10 mb-10 text-center text-3xl font-bold underline">
+      Angular v19.1 + Tailwind CSS 4.0
+    </h1>
 
     <router-outlet />
   `,
