@@ -80,6 +80,8 @@ For more information on using the Angular CLI, including detailed command refere
 
 - https://timdeschryver.dev/blog/my-recommendations-to-configure-visual-studio-code-for-angular-development
 
+- https://dev.to/krisplatis/auto-add-missing-imports-on-file-save-in-vs-code-1b89
+
 ## Helpful Commands
 
 - `netstat -ano | findstr :4200`

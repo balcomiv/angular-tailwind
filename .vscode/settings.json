@@ -1,5 +1,9 @@
 {
   "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports.ts": "always",
+    "source.organizeImports": "always"
+  },
   "tailwindCSS.includeLanguages": {
     "html": "html",
     "javascript": "javascript",
@@ -18,5 +22,6 @@
   "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "prettier.singleQuote": true
+  "prettier.singleQuote": true,
+  "javascript.preferences.organizeImports": {}
 }
