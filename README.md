@@ -60,6 +60,17 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## Helpful Links
 
+### Helpful Tutorials
+
+- https://www.youtube.com/watch?v=R7b3OlEyqug
+- https://coding2go.com/
+
+### Icons
+
+- https://fonts.google.com/
+
+- https://simpleicons.org/
+
 ### Tailwind
 
 - https://tailwindcss.com/docs/installation/framework-guides/angular

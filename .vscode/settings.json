@@ -23,5 +23,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "prettier.singleQuote": true,
-  "javascript.preferences.organizeImports": {}
+  "javascript.preferences.organizeImports": {},
+  "scss.completion.completePropertyWithSemicolon": false
 }
